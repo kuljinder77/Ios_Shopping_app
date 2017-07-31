@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1058249703387-js8s0tb927s5eeej7vnmp19ds849r6ks.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1058249703387-js8s0tb927s5eeej7vnmp19ds849r6ks</string>
+	<key>API_KEY</key>
+	<string>AIzaSyADnrYKBV0bd1LQAYw_mWSeR3jtuzwdncQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1058249703387</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lambton.c0696764</string>
+	<key>PROJECT_ID</key>
+	<string>lambtonios-65d51</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lambtonios-65d51.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1058249703387:ios:215257c4c1d2227c</string>
+	<key>DATABASE_URL</key>
+	<string>https://lambtonios-65d51.firebaseio.com</string>
+</dict>
+</plist>
